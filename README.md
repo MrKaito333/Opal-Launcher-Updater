@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="icon.png" width="144" alt="Opal Launcher icon" />
+  <img src="opal.png" width="144" alt="Opal Launcher icon" />
 
   <h1>Opal Launcher</h1>
 
@@ -8,10 +8,18 @@
 
   <!-- Downloads -->
   <h3>
-    <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher-setup.exe">🚀 Windows</a> • 
-    <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.dmg">🍏 macOS</a> • 
-    <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.AppImage">🐧 Linux</a>
+    <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher-setup.exe">
+      <img src="win.png" width="20" height="20" alt="Windows" /> Windows
+    </a> •
+    <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.dmg">
+      <img src="mac.png" width="20" height="20" alt="macOS" /> macOS
+    </a> •
+    <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.AppImage">
+      <img src="linux.png" width="20" height="20" alt="Linux" /> Linux
+    </a>
   </h3>
+
+  <p><i>The buttons above instantly fetch the latest stable builds.</i></p>
 
   <p><i>The buttons above instantly fetch the latest stable builds.</i></p>
 
