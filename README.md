@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./resources/icon.png" width="144" alt="Opal Launcher icon" />
+<img src=".icon.png" width="144" alt="Opal Launcher icon" />
 
 <h1>Opal Launcher</h1>
 
