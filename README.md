@@ -6,14 +6,7 @@
 
   <p>A unified, feature-rich home for your entire video game library.</p>
 
-  <!-- Modern status badges -->
-  <img src="https://shields.io" alt="Latest Release" />
-  <img src="https://shields.io" alt="License" />
-  <img src="https://shields.io" alt="Stars" />
-
-  <br />
-  <br />
-
+  <!-- Downloads -->
   <h3>
     <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher-setup.exe">🚀 Windows</a> • 
     <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.dmg">🍏 macOS</a> • 
