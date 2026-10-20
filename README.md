@@ -1,6 +1,8 @@
-# Opal Launcher
+<div align="center">
 
-Your games, saves, and discoveries in one place.
+<img src="./resources/icon.png" width="144" alt="Opal Launcher icon" />
+
+<h1>Opal Launcher</h1>
 
 **[Windows](https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher-setup.exe) | [Mac](https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.dmg) | [Linux](https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.AppImage)**
 
