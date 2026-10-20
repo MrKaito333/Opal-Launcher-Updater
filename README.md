@@ -35,7 +35,7 @@ Opal Launcher consolidates your gaming universe into a single, cohesive ecosyste
 ## 📦 Platform & Installation Notes
 
 * **Updates:** The Windows installer and Linux AppImage packages support automatic, in-launcher updates.
-* **macOS Users:** Builds are currently unsigned. If the system blocks execution, right-click (or Control-click) the application file and select **Open** from the context menu.
+* **macOS Users:** The Mac download is for Apple Silicon and is currently unsigned. If the system blocks execution, right-click (or Control-click) the application file and select **Open** from the context menu.
 * **Alternative Formats:** Need portable archives or specialized packaging? Explore [all releases](https://github.com/MrKaito333/Opal-Launcher-Updater/releases).
 
 > [!IMPORTANT]  
