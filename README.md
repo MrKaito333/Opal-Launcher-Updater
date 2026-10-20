@@ -25,8 +25,8 @@ Opal Launcher consolidates your gaming universe into a single, cohesive ecosyste
 
 - 🎮 **Unified Hub** – Keep all your owned games together and launch them instantly from one beautiful interface.
 - 🔍 **Discover & Explore** – Dive into curated collections, smart recommendations, and comprehensive game pages.
-- 📊 **Track Everything** – Monitor your playtime, unlock achievements, and stay connected with what your friends are playing.
-- ☁️ **Safe Keeping** – Never lose a save file again with built-in cloud progress backup.
+- 💾 **Direct Downloads** – Install your all-time favorites or pull down a fresh install instantly, powered completely by Opal Launcher.
+- 📊 **Track Everything** – Monitor your playtime, steam stats, and more!
 - 🎨 **Deep Customization** – Personalize your environment with custom artwork, UI themes, and a dynamic Big Picture view.
 - 🕹️ **Emulation-Ready** – Easily manage your classic configurations and launch your favorite emulators side-by-side with modern titles.
 
