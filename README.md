@@ -12,25 +12,11 @@
       <td align="center" width="33%">
         <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher-setup.exe">
           <img src="win.png" width="80" height="80" alt="Windows" /><br/>
-          <strong>Windows</strong><br/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.dmg">
-          <img src="mac.png" width="80" height="80" alt="macOS" /><br/>
-          <strong>macOS</strong><br/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.AppImage">
-          <img src="linux.png" width="80" height="80" alt="Linux" /><br/>
-          <strong>Linux</strong><br/>
+          <strong>Direct Download</strong><br/>
         </a>
       </td>
     </tr>
   </table>
-
-  <p><i>The buttons above instantly fetch the latest stable builds.</i></p>
 
 </div>
 
@@ -54,6 +40,3 @@ Opal Launcher consolidates your gaming universe into a single, cohesive ecosyste
 * **Updates:** The Windows installer and Linux AppImage packages support automatic, in-launcher updates.
 * **macOS Users:** The Mac download is for Apple Silicon and is currently unsigned. If the system blocks execution, right-click (or Control-click) the application file and select **Open** from the context menu.
 * **Alternative Formats:** Need portable archives or specialized packaging? Explore [all releases](https://github.com/MrKaito333/Opal-Launcher-Updater/releases).
-
-> [!IMPORTANT]  
-> **Upgrading from v1.0.3?** Please manually install the latest build one final time to successfully migrate to our new public update stream. Your existing library configuration, progress, and settings will remain fully intact.
