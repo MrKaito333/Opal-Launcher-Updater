@@ -16,13 +16,13 @@
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/download/v1.0.4/opal-launcher.dmg">
+        <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.dmg">
           <img src="mac.png" width="80" height="80" alt="macOS" /><br/>
           <strong>macOS</strong><br/>
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/download/v1.0.4/opal-launcher.AppImage">
+        <a href="https://github.com/MrKaito333/Opal-Launcher-Updater/releases/latest/download/opal-launcher.AppImage">
           <img src="linux.png" width="80" height="80" alt="Linux" /><br/>
           <strong>Linux</strong><br/>
         </a>
